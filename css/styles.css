@@ -1,0 +1,442 @@
+#logo{
+	position: relative;
+	/*padding-top: 10px;*/
+}
+
+.collapse.navbar-collapse{
+	padding: 0px;
+}
+
+nav ul.nav.navbar-nav{
+	width: 100vw;
+
+}
+
+nav ul.nav.navbar-nav li{
+	width: 25%;
+	padding: 2px;
+	margin: 0;
+}
+
+nav ul.nav.navbar-nav li{
+	padding-left: 100px;
+}
+
+
+#follow-us{
+	font-size: 15px;
+	padding-top: 5px;
+	padding-left: 180px;
+}
+
+#icon{
+	font-size: 35px;
+	padding-left: 180px;
+}
+
+
+.navbar-form {
+	padding: 0;
+	margin: 0;
+}
+
+#triangle{
+	position: absolute;
+  	right: 1px;
+  	top: 0px;
+  	padding-top: 0px;
+}
+
+#member{
+	margin-top: 15px;
+	margin-left: 160px;
+	
+}	
+
+.diy-menu{
+	margin: 10px;
+	margin-left: 100px;
+	padding-right: 15px;
+	font-size: 20px;
+	
+}
+
+.diy-menu a{
+	font color: #81c2e2;
+	font-weight: 20px;
+}
+
+.dropdown-menu li{
+	margin-left: 100px;
+	padding-left: 5px;
+}
+
+.carousel-inner{
+	margin: 0 auto;
+}
+
+#heading{
+	color: #ffdd00;
+	text-align: center;
+}
+
+#sub-post-heading{
+	font-size: 18px;
+	margin: 0;
+	padding: 13px;
+}
+
+.why-change{
+	padding-left: 50px;
+	padding-right: 40px;
+	/*padding-bottom: 20px;*/
+}
+
+#paragraph-intro{
+	text-align: justify;
+}
+
+.post-image{
+	padding-left: 40px;
+}
+
+#post-content{
+	background-color: #e7ebed;
+	padding: 8px 10px;
+	text-align: justify;
+}
+
+#advertising{
+	padding-left: 50px;
+}
+
+.post-padding{
+	padding-bottom: 40px;
+}
+
+#footer-background{
+	background-color: #c0e4f5;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#address{
+	padding-left: 60px;
+	font-size: 18px;
+}
+
+#navigate{
+	padding-left: 20px;
+	font-size: 18px;
+}
+
+#subscribe strong{
+	font-size: 18px;
+}
+
+.align{
+	width: 350px;
+}
+
+.form-group{
+	padding-left: 0px;
+}
+
+#subscribe button{
+	background-color: #81c2e2;
+	border-radius: 10px;
+}
+
+.center-image{
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+/*#environment{
+	padding-left: 250px;
+}*/
+
+#about-com{
+	background-color: #e7ebed;
+	padding-bottom: 20px;
+}
+
+#about-com h1{
+	margin: 0px;
+	padding-bottom: 10px;
+	text-align: center;
+	color: #ffdd00;
+}
+
+#contact-heading h1{
+	color: #ffdd00;
+}
+
+#contact-heading p{
+	padding: 10px;
+}
+
+.btn{
+	background-color: #81c2e2;
+	border-radius: 10px;
+}
+
+#contact-address{
+	font-size: 20px;
+}
+
+.images-wwyltc{
+	margin: 0 auto;
+}
+
+#bathroom-image{
+	margin: 0 auto;
+	background-image: url(../img/wwyltc/bathroom.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+
+#kitchen-image{
+	padding-left: 200px;
+	background-image: url(../img/wwyltc/kitchen.png);
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: 400px 400px;
+	opacity: 1;
+}
+
+#laundry-image{
+	background-image: url(../img/wwyltc/laundry.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 400px 400px;
+	opacity: 1;
+}
+
+#garage-image{
+	padding-left: 300px;
+	background-image: url(../img/wwyltc/garage.png);
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: 400px 400px;
+	opacity: 1;
+}
+
+#other-areas-image{
+	padding: 80px;
+	background-image: url(../img/wwyltc/bedroom.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 400px 400px;
+}
+
+
+.image-height{
+	margin: 0 auto;
+	margin-top: 220px;
+	margin-bottom: 220px;
+}
+
+.bgimages:hover{
+	opacity: 0.8;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+#move-heading{
+	padding-left: 400px;
+}
+
+#query-form{
+	background-color: #e7ebed;
+	padding: 150px; 
+}
+
+#drop-box{
+	/*padding: 300px;*/
+	margin: 0 auto;
+}
+
+#drop-box label{
+	display: block;
+}
+
+.enter-details{
+	padding-bottom: 20px;
+}
+
+#sign-up-details{
+	background-color: #e7ebed;
+	margin: 0 auto;
+	width: 400px;
+	padding: 20px 20px;
+}
+
+#sign-up-details label{
+	display: block;
+	width: 500px;
+}
+
+.success{
+	color: #3c763d;
+}
+
+.error{
+	color: #a94442;
+}
+
+.image-align-center{
+	text-align: center;
+	display: inline-block;
+}
+
+#login-form{
+	background-color: #e7ebed;
+	padding: 50px;
+}
+
+#login-center{
+	margin: 0 auto;
+	width: 550px;
+}
+
+#login-center h1{
+	padding-bottom: 20px;
+}
+
+#social-buttons{
+	padding-bottom: 20px;
+}
+
+.input-details{
+	display: block; 
+	width: 400px;
+}
+
+#account-details{
+	margin: 0 auto;
+	background-color: #e7ebed;
+	display: inline-block;
+	padding-bottom: 20px;
+}
+
+#heading-acc{
+	text-align: center;
+}
+
+#profile-button{
+	margin-left: 50px;
+	padding: 10px;
+}
+
+#recipe-post{
+	background-color: #e7ebed;
+	text-align: center;	
+	padding-bottom: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#recipe-post label{
+
+	padding: 20px;
+}
+
+.upload-header{
+	text-align: center;	
+}
+
+#image-recipe-upload{
+	padding-left: 500px;
+	padding-bottom: 20px;
+}
+
+#recipe-post{
+	background-color: #e7ebed;
+	margin: 0 auto;
+	border: 1px grey solid ;
+}
+
+#full-recipe-heading{
+	color: #ffdd00;
+}
+
+.delete-post-options{
+	display: none;
+}
+
+.subscribe-list{
+	display: block;
+	width: 350px;
+}
+
+#recipe-edit{
+	
+	width: 200px;
+	margin: 0 auto;
+}	
+
+#recipe-edit ul{
+	list-style-type: none;
+}
+
+.post-button{
+	margin-top: 10px; 
+}
+
+.post-changes{
+	margin: 5px;
+}
+
+.edit-post{
+	background-color: #e7ebed;
+	width: 900px;
+	border: 1px grey solid;
+	margin-bottom: 10px;
+}
+
+#edit-image{
+	padding-left: 250px;
+}
+
+#edit-dot{
+	padding: 20px;
+	border: 1px solid grey;
+	margin-bottom: 20px;
+	list-style-type: none;
+}
+
+#edit-dot li{
+	
+}
+
+.border{
+	border: 1px solid grey;
+}
+
+#edit-comment-summit{
+	margin-top: 10px;
+}
+
+#format-comments{
+	padding: 30px;
+}
+
+#format-comments h1{
+	color: #ffdd00;
+}
+
+.carousel-control{
+	opacity: 0;
+} 
+
+.dropdown-menu{
+	padding: 0;
+}
+
+
+
+
+
+
+
